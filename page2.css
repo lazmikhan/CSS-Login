@@ -1,0 +1,65 @@
+/*Name:    Toya Lazmin Khan                                     */
+/*Matric number:           A20EC0284                     */
+/*Section:                        05              */
+
+
+#box{
+
+    background-image: url(paper.jpg);
+    border: 3px solid darkred;
+    height: 500px;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.avatar_container{
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.avatar{
+    border-radius: 50%;
+}
+.input-box{
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 1px solid lightgrey;
+
+}
+button{
+    border: none;
+    width:100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: palevioletred;
+    color: white;
+}
+button:focus{
+    background-color: darkred;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2{
+    text-align: center;
+}
+
+
+
+/*Write your CSS codes below                    */
